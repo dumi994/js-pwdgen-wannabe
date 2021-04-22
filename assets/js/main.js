@@ -15,7 +15,9 @@ console.log(favColour);
 
 //Password generata
 var pwGen = namee + lastName + favColour + '21';
+console.log(pwGen);
 
 document.getElementById("namee").innerHTML = "Ciao " + namee;
 document.getElementById('lastName').innerHTML = "La tua nuova password è " + namee + lastName + favColour + "21";
- 
+
+
