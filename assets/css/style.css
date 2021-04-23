@@ -1,0 +1,15 @@
+#namee {
+  text-align: center;
+  border: 1px solid green;
+  width: 50%;
+  margin: auto;
+  background-color: green;
+}
+
+#lastName {
+  text-align: center;
+  width: 40%;
+  margin: 10px auto;
+  background-color: blue;
+  padding: 20px;
+}

@@ -22,6 +22,6 @@ console.log(pwGen);
 document.getElementById("namee").innerHTML = "Ciao " + namee;
 document.getElementById('lastName').innerHTML = "La tua nuova password è " + namee + lastName + favColour + "21";
 
-console.log(pwGen.toLowerCase)
+console.log(pwGen.toLowerCase())
 
 document.getElementById('lastName').innerHTML = pwGen.toLowerCase();
